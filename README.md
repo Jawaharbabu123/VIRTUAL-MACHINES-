@@ -1,8 +1,8 @@
 # VIRTUAL-MACHINES-
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-#### NAME: GOKUL G
-#### REG NO: 212224040091
+#### NAME: JAWAHAR BABU S
+#### REG NO: 212224220041
 
 ## Aim:
 To move the files between virtual machine.
